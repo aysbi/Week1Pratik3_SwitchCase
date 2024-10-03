@@ -32,7 +32,7 @@
   
 
 # Gereksinimler
-  .NET SDK (Version 5.0 ya da daha üst versionlar)  
+  .NET SDK (Version 8.0 ya da daha üst versionlar)  
   C# derleyici  
  
 
